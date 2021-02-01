@@ -22,12 +22,13 @@ Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web d
 > columna CCAA_ISO = MD
 
  2. Decido considerar dos series mirando la curva de incidencia de infección por COVID-19, ya que la curva en 2019 tiene dos crestas. `Explicarlo bien en el apartado que sea.`
- 3. ¿Primera serie desde el 1 de enero de 2020? A favor es que en la serie hay diagnósticos desde esa fecha. En contra que se solapa con la serie de Gripe. El primer caso "publicado en España 
+ 3. ¿Primera serie desde el 1 de enero de 2020? A favor es que en la serie hay diagnósticos desde esa fecha. En contra que se solapa con la serie de Gripe. El primer caso "publicado en España" según las noticias se produjo el 31 de enero. Decido desde 1 de enero.
+ 4. 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU5MDI1NzIsNTYxODc2NTk4LC0xOT
-U5MDcxMTYwXX0=
+eyJoaXN0b3J5IjpbMTc4MDIzMDQxNyw1NjE4NzY1OTgsLTE5NT
+kwNzExNjBdfQ==
 -->
