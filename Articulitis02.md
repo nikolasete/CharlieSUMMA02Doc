@@ -41,7 +41,7 @@ Los que tenía en el trabajo anterior.
 3. Por ello es mejor trabajar con márgenes amplios. Quizás con un percentil 75 podría valer: 
 
 > Primera Oleada COVID 19: 04/03 a 22/04 (50 d)
-> Segunda Oleada COVID 19: 
+> Segunda Oleada COVID 19: 18/08 a 
 
 `
 4. 
@@ -51,7 +51,7 @@ Los que tenía en el trabajo anterior.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDE1Njg2MiwtMjExMTI3MjIzMCwxND
-E4NzE4NDUzLDEwMzQxMTk1NDYsMjEyMTU0MDk3Myw1NjE4NzY1
-OTgsLTE5NTkwNzExNjBdfQ==
+eyJoaXN0b3J5IjpbLTE3NzY0NTA0MTcsLTIxMTEyNzIyMzAsMT
+QxODcxODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5NzMsNTYxODc2
+NTk4LC0xOTU5MDcxMTYwXX0=
 -->
