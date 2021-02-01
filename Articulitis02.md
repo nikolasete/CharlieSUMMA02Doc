@@ -23,12 +23,12 @@ Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web d
 
  2. Decido considerar dos series mirando la curva de incidencia de infección por COVID-19, ya que la curva en 2019 tiene dos crestas. `Explicarlo bien en el apartado que sea.`
  3. ¿Primera serie desde el 1 de enero de 2020? A favor es que en la serie hay diagnósticos desde esa fecha. En contra que se solapa con la serie de Gripe. El primer caso "publicado en España" según las noticias se produjo el 31 de enero. `Decido desde 1 de enero.`
- 4. Después el primer máximo se produce el 20-3 con 3219 casos. Después el primer mínimo se produce el 
+ 4. Después el primer máximo se produce el 20-3 con 3219 casos. Después el primer mínimo se produce el 27 de junio con 26 casos. Ese sería el primer período y la mediana es de 111 casos.
 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NjA3ODY3LDU2MTg3NjU5OCwtMTk1OT
-A3MTE2MF19
+eyJoaXN0b3J5IjpbLTE2ODM1NjYyOTAsNTYxODc2NTk4LC0xOT
+U5MDcxMTYwXX0=
 -->
