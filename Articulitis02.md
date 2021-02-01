@@ -36,14 +36,15 @@ Los que tenía en el trabajo anterior.
 52 días solo (frente a 96 y 106 de los dos períodos COVID).
 
 #### Algunos razonamientos
-1. La secuencia temporal más o menos es: infección (d), síntomas (d+5), hospitalización 
+1. La secuencia temporal más o menos es: infección (d), síntomas (d+5), hospitalización (d+12), UCI (d+20).
+2. Lo que vamos a estudiar es la incidencia de códigos ictus en extrahospitalaria. Nuestra sobrecarga es como unos días después de
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTIzMjg0NzEsMTQxODcxODQ1MywxMD
+eyJoaXN0b3J5IjpbLTE3MTA2NDE4NTksMTQxODcxODQ1MywxMD
 M0MTE5NTQ2LDIxMjE1NDA5NzMsNTYxODc2NTk4LC0xOTU5MDcx
 MTYwXX0=
 -->
