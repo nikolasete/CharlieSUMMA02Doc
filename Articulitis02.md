@@ -12,12 +12,15 @@ Articulitis 2
 
 #### v 2021 01 18. Git Branch "Master"
 
-Análisis del número de códigos ictus
+Introducción
 --------------------------------------------
+
+Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxODc2NTk4LC0xOTU5MDcxMTYwXX0=
+eyJoaXN0b3J5IjpbMTg1NzU2MTUxNCw1NjE4NzY1OTgsLTE5NT
+kwNzExNjBdfQ==
 -->
