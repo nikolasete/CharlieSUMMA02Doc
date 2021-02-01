@@ -14,7 +14,7 @@ Articulitis 2
 
 Introducción
 --------------------------------------------
-#### SELECCIÓN DE PERÍODOS
+#### SELECCIÓN DE PERÍODOS COVID
 
 Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web de [Datos del Gobierno de España](https://datos.gob.es/es/catalogo/e05070101-evolucion-de-enfermedad-por-el-coronavirus-covid-19) (concretamente el CSV "**Serie histórica de casos por Comunidad Autónoma**"):
 
@@ -31,12 +31,15 @@ Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web d
 > Período 1: del 28/02 al 15/06
 > Período 2: del 28/06 al 5/12
 
+#### SELECCIÓN DE PERÍODOS GRIPE
+Los que tenía en el trabajo anterior.
+
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDExOTU0NiwyMTIxNTQwOTczLDU2MT
-g3NjU5OCwtMTk1OTA3MTE2MF19
+eyJoaXN0b3J5IjpbMTY2OTE4MTk2NCwxMDM0MTE5NTQ2LDIxMj
+E1NDA5NzMsNTYxODc2NTk4LC0xOTU5MDcxMTYwXX0=
 -->
