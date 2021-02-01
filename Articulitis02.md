@@ -41,17 +41,15 @@ Los que tenía en el trabajo anterior.
 3. Por ello es mejor trabajar con márgenes amplios. Quizás con un percentil 75 podría valer: 
 
 > Primera Oleada COVID 19: 04/03 a 22/04 (50 d)
-> Segunda Oleada COVID 19: 18/08 a 
-
-`
-4. 
+> Segunda Oleada COVID 19: 18/08 a 09/10 (53 d)
+4. En fin. No sería congruente usar el percentil 75 en COVID
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzY0NTA0MTcsLTIxMTEyNzIyMzAsMT
-QxODcxODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5NzMsNTYxODc2
-NTk4LC0xOTU5MDcxMTYwXX0=
+eyJoaXN0b3J5IjpbMjEyNzk0Mzc4LC0yMTExMjcyMjMwLDE0MT
+g3MTg0NTMsMTAzNDExOTU0NiwyMTIxNTQwOTczLDU2MTg3NjU5
+OCwtMTk1OTA3MTE2MF19
 -->
