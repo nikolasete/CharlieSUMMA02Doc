@@ -15,12 +15,13 @@ Articulitis 2
 Introducción
 --------------------------------------------
 
-Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web 
+Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web de [Datos del Gobierno de España](https://datos.gob.es/es/catalogo/e05070101-evolucion-de-enfermedad-por-el-coronavirus-covid-19) (concretamente el CSV "**Serie histórica de casos por Comunidad Autónoma**"):
+
 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzU2MTUxNCw1NjE4NzY1OTgsLTE5NT
+eyJoaXN0b3J5IjpbMTI0MjU5NTQ3Miw1NjE4NzY1OTgsLTE5NT
 kwNzExNjBdfQ==
 -->
