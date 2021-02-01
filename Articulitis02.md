@@ -33,13 +33,13 @@ Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web d
 
 #### SELECCIÓN DE PERÍODOS GRIPE
 Los que tenía en el trabajo anterior.
-
+52 días solo (frente a 96 y 106 de los dos períodos COVID)
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTE4MTk2NCwxMDM0MTE5NTQ2LDIxMj
+eyJoaXN0b3J5IjpbMTQxODcxODQ1MywxMDM0MTE5NTQ2LDIxMj
 E1NDA5NzMsNTYxODc2NTk4LC0xOTU5MDcxMTYwXX0=
 -->
