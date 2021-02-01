@@ -37,14 +37,15 @@ Los que tenía en el trabajo anterior.
 
 #### Algunos razonamientos
 1. La secuencia temporal más o menos es: infección (d), síntomas (d+5), hospitalización (d+12), UCI (d+20).
-2. Lo que vamos a estudiar es la incidencia de códigos ictus en extrahospitalaria. Nuestra sobrecarga es como unos días después de
+2. Lo que vamos a estudiar es la incidencia de códigos ictus en extrahospitalaria. Nuestra sobrecarga es como unos días después del aumento de la detección de síntomas. Pero no una semana y pico después (cuando se produce la sobrecarga hospitalaria y sería más probable que se afectase la atención al ictus agudo).
+3. Por ello es mejor trabajar con márgenes amplios. Quizás con un percentil 75 
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA2NDE4NTksMTQxODcxODQ1MywxMD
+eyJoaXN0b3J5IjpbLTIxMTEyNzIyMzAsMTQxODcxODQ1MywxMD
 M0MTE5NTQ2LDIxMjE1NDA5NzMsNTYxODc2NTk4LC0xOTU5MDcx
 MTYwXX0=
 -->
