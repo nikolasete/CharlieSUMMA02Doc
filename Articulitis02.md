@@ -38,14 +38,20 @@ Los que tenía en el trabajo anterior.
 #### Algunos razonamientos
 1. La secuencia temporal más o menos es: infección (d), síntomas (d+5), hospitalización (d+12), UCI (d+20).
 2. Lo que vamos a estudiar es la incidencia de códigos ictus en extrahospitalaria. Nuestra sobrecarga es como unos días después del aumento de la detección de síntomas. Pero no una semana y pico después (cuando se produce la sobrecarga hospitalaria y sería más probable que se afectase la atención al ictus agudo).
-3. Por ello es mejor trabajar con márgenes amplios. Quizás con un percentil 75 
+3. Por ello es mejor trabajar con márgenes amplios. Quizás con un percentil 75 podría valer: 
+
+> Primera Oleada COVID 19: 04/03 a 22/04 (50 d)
+> Segunda Oleada COVID 19: 
+
+`
+4. 
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTEyNzIyMzAsMTQxODcxODQ1MywxMD
-M0MTE5NTQ2LDIxMjE1NDA5NzMsNTYxODc2NTk4LC0xOTU5MDcx
-MTYwXX0=
+eyJoaXN0b3J5IjpbMTk5NDE1Njg2MiwtMjExMTI3MjIzMCwxND
+E4NzE4NDUzLDEwMzQxMTk1NDYsMjEyMTU0MDk3Myw1NjE4NzY1
+OTgsLTE5NTkwNzExNjBdfQ==
 -->
