@@ -17,13 +17,17 @@ Introducción
 
 Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web de [Datos del Gobierno de España](https://datos.gob.es/es/catalogo/e05070101-evolucion-de-enfermedad-por-el-coronavirus-covid-19) (concretamente el CSV "**Serie histórica de casos por Comunidad Autónoma**"):
 
- 1. Ya que vamos a hablar del SUMMA, no considero los datos de España, sino solo los de la Comunidad de Madrid (columna 
- 2. Decido considerar dos series mirando la curva de incidencia de 
+ 1. Ya que vamos a hablar del SUMMA, no considero los datos de España, sino solo los de la Comunidad de Madrid.
+
+> columna CCAA_ISO = MD
+
+ 2. Decido considerar dos series mirando la curva de incidencia de infección por COVID-19, ya que la curva en 2019 tiene dos crestas. `Explicarlo bien en el apartado que sea.`
+ 3. 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMDg4NjQsNTYxODc2NTk4LC0xOTU5MD
-cxMTYwXX0=
+eyJoaXN0b3J5IjpbLTE2Nzk5ODkwNDMsNTYxODc2NTk4LC0xOT
+U5MDcxMTYwXX0=
 -->
