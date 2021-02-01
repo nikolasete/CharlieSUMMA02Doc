@@ -14,6 +14,7 @@ Articulitis 2
 
 Introducción
 --------------------------------------------
+SELECCIÓN DE PERÍODOS## Heading
 
 Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web de [Datos del Gobierno de España](https://datos.gob.es/es/catalogo/e05070101-evolucion-de-enfermedad-por-el-coronavirus-covid-19) (concretamente el CSV "**Serie histórica de casos por Comunidad Autónoma**"):
 
@@ -25,12 +26,13 @@ Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web d
  3. ¿Primera serie desde el 1 de enero de 2020? A favor es que en la serie hay diagnósticos desde esa fecha. En contra que se solapa con la serie de Gripe. El primer caso "publicado en España" según las noticias se produjo el 31 de enero. `Decido desde 1 de enero.`
  4. Después el primer máximo se produce el 20-3 con 3219 casos. Después el primer mínimo se produce el 27 de junio con 26 casos. Ese sería el primer período y la **mediana es de 111 casos**. Y por tanto el período con una frecuencia diaria superior a la media sería **del 28/02 al 2/05**, teniendo en cuenta que una semana después hay *otros muchos días con casos superiores a la mediana (hasta el 15/06)*. Si consideramos el período "estrecho" son 65 días y si consideramos el periodo ancho son 109 días. Si consideramos el primer período el primer semestre del año, la mediana es de 124 y no cambia nada). `Explicar que mirando la curva casi es por semestres.`
  5. La segunda oleada comenzaría el día siguiente 28/06 con 29 casos, hasta el máximo del 18/9 con 6.743 casos y hasta el mínimo del 5/12 con 735 casos. La **mediana del segundo período sería 1477 casos** y por tanto el período con una frecuencia superior a la mediana sería del 10/8 al 11/11 (en este caso incluyendo hasta el último día en que la mediana supera, 94 días).
- 6. Entiendo que deberíamos ser "homogeneos" en la selección 
+ 6. Entiendo que deberíamos ser "homogeneos" en la selección de los períodos. Osea que el primer período debería ser el "ancho" de 96 días.
+
 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDkxNjcyMyw1NjE4NzY1OTgsLTE5NT
-kwNzExNjBdfQ==
+eyJoaXN0b3J5IjpbLTExMDc2MzM4NjQsNTYxODc2NTk4LC0xOT
+U5MDcxMTYwXX0=
 -->
