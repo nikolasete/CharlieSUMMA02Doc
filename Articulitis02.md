@@ -14,7 +14,7 @@ Articulitis 2
 
 Introducción
 --------------------------------------------
-SELECCIÓN DE PERÍODOS## Heading
+#### SELECCIÓN DE PERÍODOS
 
 Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web de [Datos del Gobierno de España](https://datos.gob.es/es/catalogo/e05070101-evolucion-de-enfermedad-por-el-coronavirus-covid-19) (concretamente el CSV "**Serie histórica de casos por Comunidad Autónoma**"):
 
@@ -28,11 +28,15 @@ Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web d
  5. La segunda oleada comenzaría el día siguiente 28/06 con 29 casos, hasta el máximo del 18/9 con 6.743 casos y hasta el mínimo del 5/12 con 735 casos. La **mediana del segundo período sería 1477 casos** y por tanto el período con una frecuencia superior a la mediana sería del 10/8 al 11/11 (en este caso incluyendo hasta el último día en que la mediana supera, 94 días).
  6. Entiendo que deberíamos ser "homogeneos" en la selección de los períodos. Osea que el primer período debería ser el "ancho" de 96 días.
 
+> Período 1: del 28/02 al 15/06
+> Período 2: del 28/06 al 5/12
 
+
+> 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDc2MzM4NjQsNTYxODc2NTk4LC0xOT
-U5MDcxMTYwXX0=
+eyJoaXN0b3J5IjpbMjEyMTU0MDk3Myw1NjE4NzY1OTgsLTE5NT
+kwNzExNjBdfQ==
 -->
