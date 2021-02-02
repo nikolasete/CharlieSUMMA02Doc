@@ -43,7 +43,8 @@ Los que tenía en el trabajo anterior.
 > Primera Oleada COVID 19: 04/03 a 22/04 (50 d)
 > Segunda Oleada COVID 19: 18/08 a 09/10 (53 d)
 4. En fin. No sería congruente usar el percentil 75 en COVID-19 y el 50 en Gripe, excepto que expliquemos que como la gripe es de casos centinela, son muchos menos... y quizás tampoco, porque el hecho de que sean casos centinela, la mediana es con respecto a esos pocos casos...
-5. 
+
+
 
 
 > 
@@ -51,7 +52,7 @@ Los que tenía en el trabajo anterior.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI5MDkxNjYsNTM3NzIxNjE4LC0yMT
-ExMjcyMjMwLDE0MTg3MTg0NTMsMTAzNDExOTU0NiwyMTIxNTQw
-OTczLDU2MTg3NjU5OCwtMTk1OTA3MTE2MF19
+eyJoaXN0b3J5IjpbLTU2NTk4NjY3OSw1Mzc3MjE2MTgsLTIxMT
+EyNzIyMzAsMTQxODcxODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5
+NzMsNTYxODc2NTk4LC0xOTU5MDcxMTYwXX0=
 -->
