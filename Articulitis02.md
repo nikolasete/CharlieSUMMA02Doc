@@ -28,7 +28,7 @@ Tras revisar la de nuevo la incidencia de COVID-19 bajando los datos de la web d
  5. La segunda oleada comenzaría el día siguiente 28/06 con 29 casos, hasta el máximo del 18/9 con 6.743 casos y hasta el mínimo del 5/12 con 735 casos. La **mediana del segundo período sería 1477 casos** y por tanto el período con una frecuencia superior a la mediana sería del 10/8 al 11/11 (en este caso incluyendo hasta el último día en que la mediana supera, 94 días). Si consideramos el segundo período como el segundo semestre, la mediana sería de 1.340 y no cambiaría nada, excepto que volvería a salir oleada a partir del 9 de diciembre (comienzo de la tercera oleada).
  6. Entiendo que deberíamos ser "homogéneos" en la selección de los períodos. Osea que el primer período debería ser el "ancho" de 96 días.
 
-> Período 1: del 28/02 al 15/06: 
+> Período 1: del 28/02 al 15/06: 109 días
 > Período 2: del 10/08 al 11/11: 94 días
 
 #### SELECCIÓN DE PERÍODOS GRIPE
@@ -51,7 +51,7 @@ Los que tenía en el trabajo anterior.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwMjEzMjMzLDUzNzcyMTYxOCwtMjExMT
-I3MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1NDYsMjEyMTU0MDk3
-Myw1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
+eyJoaXN0b3J5IjpbLTEwOTI5MDkxNjYsNTM3NzIxNjE4LC0yMT
+ExMjcyMjMwLDE0MTg3MTg0NTMsMTAzNDExOTU0NiwyMTIxNTQw
+OTczLDU2MTg3NjU5OCwtMTk1OTA3MTE2MF19
 -->
