@@ -46,11 +46,11 @@ Los que tenía en el trabajo anterior.
 
 #### PRUEBAS
 
- - Percentil 50 Gripe, percentil 75 de COVID: 
+ - Percentil 50 Gripe, percentil 75 de COVID: n=1
 
     Diferencias significativas en edad durante la primera oleada, en sexo. NO diferencias en número de CI.
 
-- Percentil 50 de todo: 
+- Percentil 50 de todo: n=2083
 
 
 > 
@@ -58,8 +58,8 @@ Los que tenía en el trabajo anterior.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzc2NjkwOTIsLTk2MzkyMzU3Miw1Mz
-c3MjE2MTgsLTIxMTEyNzIyMzAsMTQxODcxODQ1MywxMDM0MTE5
-NTQ2LDIxMjE1NDA5NzMsNTYxODc2NTk4LC0xOTU5MDcxMTYwXX
-0=
+eyJoaXN0b3J5IjpbLTc0OTQ4NDExMCwtMTc3NzY2OTA5MiwtOT
+YzOTIzNTcyLDUzNzcyMTYxOCwtMjExMTI3MjIzMCwxNDE4NzE4
+NDUzLDEwMzQxMTk1NDYsMjEyMTU0MDk3Myw1NjE4NzY1OTgsLT
+E5NTkwNzExNjBdfQ==
 -->
