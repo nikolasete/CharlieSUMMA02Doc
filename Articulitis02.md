@@ -45,7 +45,8 @@ Los que tenía en el trabajo anterior.
 4. En fin. No sería congruente usar el percentil 75 en COVID-19 y el 50 en Gripe, excepto que expliquemos que como la gripe es de casos centinela, son muchos menos... y quizás tampoco, porque el hecho de que sean casos centinela, la mediana es con respecto a esos pocos casos...
 
 #### PRUEBAS
-Con la subrutina de selección d
+Con la subrutina de selección de los períodos de tiempo, puedo probar a usar los períodos cortos o los períodos largos:
+
  - Percentil 50 Gripe, percentil 75 de COVID: n=1213, 285 días a estudio.
 
     Diferencias significativas en edad durante la primera oleada, en sexo. NO diferencias en número de CI.
@@ -59,7 +60,7 @@ Con la subrutina de selección d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY1NTk3MDcsLTE3Nzc2NjkwOTIsLT
+eyJoaXN0b3J5IjpbLTE1MzQ0ODE1NjIsLTE3Nzc2NjkwOTIsLT
 k2MzkyMzU3Miw1Mzc3MjE2MTgsLTIxMTEyNzIyMzAsMTQxODcx
 ODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5NzMsNTYxODc2NTk4LC
 0xOTU5MDcxMTYwXX0=
