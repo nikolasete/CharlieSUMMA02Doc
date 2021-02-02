@@ -50,6 +50,7 @@ Los que tenía en el trabajo anterior.
 
     Diferencias significativas en edad durante la primera oleada, en sexo. NO diferencias en número de CI.
 
+- Percentil 50 de todo: 
 
 
 > 
@@ -57,8 +58,8 @@ Los que tenía en el trabajo anterior.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjgwMTY5NSwtOTYzOTIzNTcyLDUzNz
-cyMTYxOCwtMjExMTI3MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1
-NDYsMjEyMTU0MDk3Myw1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ
-==
+eyJoaXN0b3J5IjpbLTE3Nzc2NjkwOTIsLTk2MzkyMzU3Miw1Mz
+c3MjE2MTgsLTIxMTEyNzIyMzAsMTQxODcxODQ1MywxMDM0MTE5
+NTQ2LDIxMjE1NDA5NzMsNTYxODc2NTk4LC0xOTU5MDcxMTYwXX
+0=
 -->
