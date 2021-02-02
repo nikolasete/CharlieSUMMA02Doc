@@ -48,12 +48,17 @@ Los que tenía en el trabajo anterior.
 
  - Percentil 50 Gripe, percentil 75 de COVID: 
 
+    Diferencias significativas en edad durante la primera oleada, en sexo. NO diferencias en número de CI.
+
+
+
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzkyMzU3Miw1Mzc3MjE2MTgsLTIxMT
-EyNzIyMzAsMTQxODcxODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5
-NzMsNTYxODc2NTk4LC0xOTU5MDcxMTYwXX0=
+eyJoaXN0b3J5IjpbMTM5MjgwMTY5NSwtOTYzOTIzNTcyLDUzNz
+cyMTYxOCwtMjExMTI3MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1
+NDYsMjEyMTU0MDk3Myw1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ
+==
 -->
