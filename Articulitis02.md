@@ -44,15 +44,16 @@ Los que tenía en el trabajo anterior.
 > Segunda Oleada COVID 19: 18/08 a 09/10 (53 d)
 4. En fin. No sería congruente usar el percentil 75 en COVID-19 y el 50 en Gripe, excepto que expliquemos que como la gripe es de casos centinela, son muchos menos... y quizás tampoco, porque el hecho de que sean casos centinela, la mediana es con respecto a esos pocos casos...
 
+#### PRUEBAS
 
-
+ - Percentil 50 Gripe, percentil 75 de COVID: 
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTk4NjY3OSw1Mzc3MjE2MTgsLTIxMT
+eyJoaXN0b3J5IjpbLTk2MzkyMzU3Miw1Mzc3MjE2MTgsLTIxMT
 EyNzIyMzAsMTQxODcxODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5
 NzMsNTYxODc2NTk4LC0xOTU5MDcxMTYwXX0=
 -->
