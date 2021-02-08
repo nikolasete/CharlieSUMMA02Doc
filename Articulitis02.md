@@ -63,7 +63,7 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 |ANOVA  |Influenza vs 2 Waves & Precovid  | =
 |Kruskal  |= |=
 |__Sexo__| **2 Waves: Invierten proporción**| =
-|CHI2  | 1Wave frente a Influenza y a Precovid | No DIF
+|CHI2  | 1Wave frente a Influenza y a Precovid | No DIF, Ajuste Bonferonui
 |__Edad__
 |ANOVA  | 2Wave frente a Influenza y a Precovid | Influenza frente a 2 olas
 |Kruskal  | 2Wave frente a Influenza y a Precovid | 1Wave frente a Influenza y Precovid
@@ -78,9 +78,9 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjgzMjA1MDgsMTIwODc1OTM5MiwtND
-QxNzAwNDIxLDE4NzkyMzU0MiwtMjEyMjU1NTMyMywtMTUzNDQ4
-MTU2MiwtMTc3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcyMTYxOC
-wtMjExMTI3MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1NDYsMjEy
-MTU0MDk3Myw1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
+eyJoaXN0b3J5IjpbMTYxMzEyNTEyNywxMjA4NzU5MzkyLC00ND
+E3MDA0MjEsMTg3OTIzNTQyLC0yMTIyNTU1MzIzLC0xNTM0NDgx
+NTYyLC0xNzc3NjY5MDkyLC05NjM5MjM1NzIsNTM3NzIxNjE4LC
+0yMTExMjcyMjMwLDE0MTg3MTg0NTMsMTAzNDExOTU0NiwyMTIx
+NTQwOTczLDU2MTg3NjU5OCwtMTk1OTA3MTE2MF19
 -->
