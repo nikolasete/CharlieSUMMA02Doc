@@ -63,15 +63,21 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 |CHI2  | 1Wave frente a Influenza y a Precovid | No DIF
 |__Edad__
 |ANOVA  | 2Wave frente a Influenza y a Precovid | Influenza frente a 2 olas
-|Kruskal  | 2Wave frente a Influenza y a Precovid | Influenza frente a 2 olas
+|Kruskal  | 2Wave frente a Influenza y a Precovid | 1Wave frente a Influenza y Precovid
+|__Minutos__
+|ANOVA  | 2Wave frente a Influenza y a Precovid | Influenza frente a 2 olas
+|Kruskal  | 2Wave frente a Influenza y a Precovid | 1Wave frente a Influenza y Precovid
+
+
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMDU3OTUzLC0yMTIyNTU1MzIzLC0xNT
-M0NDgxNTYyLC0xNzc3NjY5MDkyLC05NjM5MjM1NzIsNTM3NzIx
-NjE4LC0yMTExMjcyMjMwLDE0MTg3MTg0NTMsMTAzNDExOTU0Ni
-wyMTIxNTQwOTczLDU2MTg3NjU5OCwtMTk1OTA3MTE2MF19
+eyJoaXN0b3J5IjpbMTA4NTA1OTM0NiwtMjEyMjU1NTMyMywtMT
+UzNDQ4MTU2MiwtMTc3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcy
+MTYxOCwtMjExMTI3MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1ND
+YsMjEyMTU0MDk3Myw1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
+
 -->
