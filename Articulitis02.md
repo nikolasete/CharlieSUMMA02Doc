@@ -54,11 +54,11 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 - Percentil 50 de todo: n=2083, 484 días a estudio.
 
 
-|  |Percentil 25|Percentil 50
-|--|--|--
-|Número de CI diarios  |  |
-|--|--|--
-|ANOVA  |  |
+|  |Percentil 25|Percentil 50|
+|--|--|--|
+|Número de CI diarios  |  ||
+|--|--|--|
+|ANOVA  |Influenza vs Precovid y COVID  |
 
 
 > 
@@ -66,8 +66,8 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDA0MiwtMTUzNDQ4MTU2MiwtMTc3Nz
-Y2OTA5MiwtOTYzOTIzNTcyLDUzNzcyMTYxOCwtMjExMTI3MjIz
-MCwxNDE4NzE4NDUzLDEwMzQxMTk1NDYsMjEyMTU0MDk3Myw1Nj
-E4NzY1OTgsLTE5NTkwNzExNjBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjU2MjMzMDEsLTE1MzQ0ODE1NjIsLT
+E3Nzc2NjkwOTIsLTk2MzkyMzU3Miw1Mzc3MjE2MTgsLTIxMTEy
+NzIyMzAsMTQxODcxODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5Nz
+MsNTYxODc2NTk4LC0xOTU5MDcxMTYwXX0=
 -->
