@@ -65,8 +65,8 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 |ANOVA  | 2Wave frente a Influenza y a Precovid | Influenza frente a 2 olas
 |Kruskal  | 2Wave frente a Influenza y a Precovid | 1Wave frente a Influenza y Precovid
 |__Minutos__
-|ANOVA  | 1Wave frente a Precovid | Influenza y 2 olas frente a 
-|Kruskal  | 2Wave frente a Influenza y a Precovid | 1Wave frente a Influenza y Precovid
+|ANOVA  | 1Wave frente a Precovid | Influenza y 2 olas frente a Precovid
+|Kruskal  | 1Wave frente a Precovid | Influenza y 2 olas frente a Precovid
 
 
 
@@ -75,9 +75,8 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTU2NzA5MiwtMjEyMjU1NTMyMywtMT
-UzNDQ4MTU2MiwtMTc3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcy
-MTYxOCwtMjExMTI3MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1ND
-YsMjEyMTU0MDk3Myw1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
-
+eyJoaXN0b3J5IjpbMTg3OTIzNTQyLC0yMTIyNTU1MzIzLC0xNT
+M0NDgxNTYyLC0xNzc3NjY5MDkyLC05NjM5MjM1NzIsNTM3NzIx
+NjE4LC0yMTExMjcyMjMwLDE0MTg3MTg0NTMsMTAzNDExOTU0Ni
+wyMTIxNTQwOTczLDU2MTg3NjU5OCwtMTk1OTA3MTE2MF19
 -->
