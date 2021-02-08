@@ -71,16 +71,17 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 |ANOVA  | 1Wave frente a Precovid | Influenza y 2 olas frente a Precovid
 |Kruskal  | 1Wave frente a Precovid | Influenza y 2 olas frente a Precovid
 
-
+- 
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUxOTU0NzYsMTIwODc1OTM5MiwtND
-QxNzAwNDIxLDE4NzkyMzU0MiwtMjEyMjU1NTMyMywtMTUzNDQ4
-MTU2MiwtMTc3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcyMTYxOC
-wtMjExMTI3MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1NDYsMjEy
-MTU0MDk3Myw1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
+eyJoaXN0b3J5IjpbLTEwNTg2OTUxMTEsLTExNzUxOTU0NzYsMT
+IwODc1OTM5MiwtNDQxNzAwNDIxLDE4NzkyMzU0MiwtMjEyMjU1
+NTMyMywtMTUzNDQ4MTU2MiwtMTc3NzY2OTA5MiwtOTYzOTIzNT
+cyLDUzNzcyMTYxOCwtMjExMTI3MjIzMCwxNDE4NzE4NDUzLDEw
+MzQxMTk1NDYsMjEyMTU0MDk3Myw1NjE4NzY1OTgsLTE5NTkwNz
+ExNjBdfQ==
 -->
