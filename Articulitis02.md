@@ -54,9 +54,9 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 - Percentil 50 de todo: n=2083, 484 días a estudio.
 
 
-|  |  |
-|--|--|
-|  |  |
+|  |Percentil 25|Percentil 50
+|--|--|--
+|Número de CI diarios  |  |
 
 
 
@@ -65,8 +65,8 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTcyOTk4OCwtMTUzNDQ4MTU2MiwtMT
-c3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcyMTYxOCwtMjExMTI3
-MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1NDYsMjEyMTU0MDk3My
-w1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
+eyJoaXN0b3J5IjpbMjc2NTE5ODg3LC0xNTM0NDgxNTYyLC0xNz
+c3NjY5MDkyLC05NjM5MjM1NzIsNTM3NzIxNjE4LC0yMTExMjcy
+MjMwLDE0MTg3MTg0NTMsMTAzNDExOTU0NiwyMTIxNTQwOTczLD
+U2MTg3NjU5OCwtMTk1OTA3MTE2MF19
 -->
