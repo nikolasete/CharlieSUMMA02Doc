@@ -54,7 +54,7 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 - Percentil 50 de todo: n=2083, 484 días a estudio.
 
 
-|  |Percentil 25|Percentil 50|
+|  |Percentil 75|Percentil 50|
 |--|--|--|
 |__Número de CI diarios__
 |ANOVA  |Influenza vs Precovid y COVID  | =
@@ -62,15 +62,17 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 |__Sexo__
 |CHI2  | 1Wave frente a Influenza y a Precovid | No DIF
 |__Edad__
-|CHI2  | 1Wave frente a Influenza y a Precovid | No DIF
+|ANOVA  | 2Wave frente a Influenza y a Precovid | Influenza frente a 2 olas
+
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI1NTUzMjMsLTE1MzQ0ODE1NjIsLT
-E3Nzc2NjkwOTIsLTk2MzkyMzU3Miw1Mzc3MjE2MTgsLTIxMTEy
-NzIyMzAsMTQxODcxODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5Nz
-MsNTYxODc2NTk4LC0xOTU5MDcxMTYwXX0=
+eyJoaXN0b3J5IjpbLTQ2NDYxMDczNCwtMjEyMjU1NTMyMywtMT
+UzNDQ4MTU2MiwtMTc3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcy
+MTYxOCwtMjExMTI3MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1ND
+YsMjEyMTU0MDk3Myw1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
+
 -->
