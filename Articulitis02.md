@@ -72,16 +72,19 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 - Parece más sensato usar el percentil 50 ya que tiene más "n" y parece algo más fácil de interpretar los resultados.
 
 
+#### Missing values
+* __Variable Sex__ Faltan seis valores
+* 
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5MzM2MTA5LC0yMDUwNzE3Njk4LC0xMT
-c1MTk1NDc2LDEyMDg3NTkzOTIsLTQ0MTcwMDQyMSwxODc5MjM1
-NDIsLTIxMjI1NTUzMjMsLTE1MzQ0ODE1NjIsLTE3Nzc2NjkwOT
-IsLTk2MzkyMzU3Miw1Mzc3MjE2MTgsLTIxMTEyNzIyMzAsMTQx
-ODcxODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5NzMsNTYxODc2NT
-k4LC0xOTU5MDcxMTYwXX0=
+eyJoaXN0b3J5IjpbLTM3MDExNjc4Myw4MjkzMzYxMDksLTIwNT
+A3MTc2OTgsLTExNzUxOTU0NzYsMTIwODc1OTM5MiwtNDQxNzAw
+NDIxLDE4NzkyMzU0MiwtMjEyMjU1NTMyMywtMTUzNDQ4MTU2Mi
+wtMTc3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcyMTYxOCwtMjEx
+MTI3MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1NDYsMjEyMTU0MD
+k3Myw1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
 -->
