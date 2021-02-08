@@ -56,6 +56,7 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 |  |Percentil 75|Percentil 50|
 |--|--|--|
+|--|--|--|
 |__Número de CI diarios__
 |ANOVA  |Influenza vs Precovid y COVID  | =
 |Kruskal  |= |
@@ -75,8 +76,9 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTIzNTQyLC0yMTIyNTU1MzIzLC0xNT
-M0NDgxNTYyLC0xNzc3NjY5MDkyLC05NjM5MjM1NzIsNTM3NzIx
-NjE4LC0yMTExMjcyMjMwLDE0MTg3MTg0NTMsMTAzNDExOTU0Ni
-wyMTIxNTQwOTczLDU2MTg3NjU5OCwtMTk1OTA3MTE2MF19
+eyJoaXN0b3J5IjpbLTEwNTYwNDgzMTIsMTg3OTIzNTQyLC0yMT
+IyNTU1MzIzLC0xNTM0NDgxNTYyLC0xNzc3NjY5MDkyLC05NjM5
+MjM1NzIsNTM3NzIxNjE4LC0yMTExMjcyMjMwLDE0MTg3MTg0NT
+MsMTAzNDExOTU0NiwyMTIxNTQwOTczLDU2MTg3NjU5OCwtMTk1
+OTA3MTE2MF19
 -->
