@@ -73,7 +73,8 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 
 #### Missing values
-* __Variable Sex__ Faltan seis valores
+* __Variable Sex__ Faltan seis valores. Sustituyo los "D" de desconocido por datos en blanco, para que "D" no aparezca en la tabla "tableby"
+* 
 * 
 
 > 
@@ -81,7 +82,7 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDExNjc4Myw4MjkzMzYxMDksLTIwNT
+eyJoaXN0b3J5IjpbMTI3Mjk5NDM0NSw4MjkzMzYxMDksLTIwNT
 A3MTc2OTgsLTExNzUxOTU0NzYsMTIwODc1OTM5MiwtNDQxNzAw
 NDIxLDE4NzkyMzU0MiwtMjEyMjU1NTMyMywtMTUzNDQ4MTU2Mi
 wtMTc3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcyMTYxOCwtMjEx
