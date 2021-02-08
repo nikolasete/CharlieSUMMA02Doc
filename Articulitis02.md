@@ -74,7 +74,7 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 #### Missing values
 * __Variable Sex__ Faltan seis valores. Sustituyo los "D" de desconocido por datos en blanco, para que "D" no aparezca en la tabla "tableby"
-* 
+* __Variable Minutos__ Hay 395 datos que faltan. Están en blanco y así no se analizan.
 * 
 
 > 
@@ -82,10 +82,10 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Mjk5NDM0NSw4MjkzMzYxMDksLTIwNT
-A3MTc2OTgsLTExNzUxOTU0NzYsMTIwODc1OTM5MiwtNDQxNzAw
-NDIxLDE4NzkyMzU0MiwtMjEyMjU1NTMyMywtMTUzNDQ4MTU2Mi
-wtMTc3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcyMTYxOCwtMjEx
-MTI3MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1NDYsMjEyMTU0MD
-k3Myw1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
+eyJoaXN0b3J5IjpbNjM3MjUzMTg5LDgyOTMzNjEwOSwtMjA1MD
+cxNzY5OCwtMTE3NTE5NTQ3NiwxMjA4NzU5MzkyLC00NDE3MDA0
+MjEsMTg3OTIzNTQyLC0yMTIyNTU1MzIzLC0xNTM0NDgxNTYyLC
+0xNzc3NjY5MDkyLC05NjM5MjM1NzIsNTM3NzIxNjE4LC0yMTEx
+MjcyMjMwLDE0MTg3MTg0NTMsMTAzNDExOTU0NiwyMTIxNTQwOT
+czLDU2MTg3NjU5OCwtMTk1OTA3MTE2MF19
 -->
