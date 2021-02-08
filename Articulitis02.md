@@ -1,16 +1,14 @@
-Articulitis 2
-=========
+# Articulitis 2
+## Stroke Codes in the Region of Madrid during COVID-19 pandemic
 
-# Stroke Codes in the Region of Madrid during COVID-19 pandemic
+### Analysis of second wave
 
-## Analysis of second wave
-
-### Nicolás Riera
-#### Proyecto de investigación sobre la influencia de la segunda ola de COVID-19 en la activación de códigos ictus en la región de Madrid
+#### Nicolás Riera
+##### Proyecto de investigación sobre la influencia de la segunda ola de COVID-19 en la activación de códigos ictus en la región de Madrid
 
 ### `r as.character(Sys.Date())`
 
-#### v 2021 01 18. Git Branch "Master"
+##### v 2021 01 18. Git Branch "Master"
 
 Introducción
 --------------------------------------------
@@ -80,10 +78,10 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA3MTc2OTgsLTExNzUxOTU0NzYsMT
-IwODc1OTM5MiwtNDQxNzAwNDIxLDE4NzkyMzU0MiwtMjEyMjU1
-NTMyMywtMTUzNDQ4MTU2MiwtMTc3NzY2OTA5MiwtOTYzOTIzNT
-cyLDUzNzcyMTYxOCwtMjExMTI3MjIzMCwxNDE4NzE4NDUzLDEw
-MzQxMTk1NDYsMjEyMTU0MDk3Myw1NjE4NzY1OTgsLTE5NTkwNz
-ExNjBdfQ==
+eyJoaXN0b3J5IjpbODI5MzM2MTA5LC0yMDUwNzE3Njk4LC0xMT
+c1MTk1NDc2LDEyMDg3NTkzOTIsLTQ0MTcwMDQyMSwxODc5MjM1
+NDIsLTIxMjI1NTUzMjMsLTE1MzQ0ODE1NjIsLTE3Nzc2NjkwOT
+IsLTk2MzkyMzU3Miw1Mzc3MjE2MTgsLTIxMTEyNzIyMzAsMTQx
+ODcxODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5NzMsNTYxODc2NT
+k4LC0xOTU5MDcxMTYwXX0=
 -->
