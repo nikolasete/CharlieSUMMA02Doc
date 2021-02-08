@@ -54,14 +54,19 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 - Percentil 50 de todo: n=2083, 484 días a estudio.
 
 
+|  |  |
+|--|--|
+|  |  |
+
+
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ0ODE1NjIsLTE3Nzc2NjkwOTIsLT
-k2MzkyMzU3Miw1Mzc3MjE2MTgsLTIxMTEyNzIyMzAsMTQxODcx
-ODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5NzMsNTYxODc2NTk4LC
-0xOTU5MDcxMTYwXX0=
+eyJoaXN0b3J5IjpbMjA3NTcyOTk4OCwtMTUzNDQ4MTU2MiwtMT
+c3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcyMTYxOCwtMjExMTI3
+MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1NDYsMjEyMTU0MDk3My
+w1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
 -->
