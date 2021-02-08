@@ -60,16 +60,17 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 |ANOVA  |Influenza vs Precovid y COVID  | =
 |Kruskal  |= |
 |__Sexo__
-|CHI2  | Más jóven en 1Wave frente a Influenza y a Precovid | No DIF
-
+|CHI2  | 1Wave frente a Influenza y a Precovid | No DIF
+|__Edad__
+|CHI2  | 1Wave frente a Influenza y a Precovid | No DIF
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDkzODcxNCwtMTUzNDQ4MTU2MiwtMT
-c3NzY2OTA5MiwtOTYzOTIzNTcyLDUzNzcyMTYxOCwtMjExMTI3
-MjIzMCwxNDE4NzE4NDUzLDEwMzQxMTk1NDYsMjEyMTU0MDk3My
-w1NjE4NzY1OTgsLTE5NTkwNzExNjBdfQ==
+eyJoaXN0b3J5IjpbLTIxMjI1NTUzMjMsLTE1MzQ0ODE1NjIsLT
+E3Nzc2NjkwOTIsLTk2MzkyMzU3Miw1Mzc3MjE2MTgsLTIxMTEy
+NzIyMzAsMTQxODcxODQ1MywxMDM0MTE5NTQ2LDIxMjE1NDA5Nz
+MsNTYxODc2NTk4LC0xOTU5MDcxMTYwXX0=
 -->
