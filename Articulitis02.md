@@ -71,14 +71,16 @@ Con la subrutina de selección de los períodos de tiempo, puedo probar a usar l
 |ANOVA  | 1Wave frente a Precovid | Influenza y 2 olas frente a Precovid
 |Kruskal  | 1Wave frente a Precovid | Influenza y 2 olas frente a Precovid
 
-- 
+- Parece más sensato usar el percentil 50 ya que tiene más "n" y parece algo más fácil de interpretar los resultados.
+
+
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg2OTUxMTEsLTExNzUxOTU0NzYsMT
+eyJoaXN0b3J5IjpbLTIwNTA3MTc2OTgsLTExNzUxOTU0NzYsMT
 IwODc1OTM5MiwtNDQxNzAwNDIxLDE4NzkyMzU0MiwtMjEyMjU1
 NTMyMywtMTUzNDQ4MTU2MiwtMTc3NzY2OTA5MiwtOTYzOTIzNT
 cyLDUzNzcyMTYxOCwtMjExMTI3MjIzMCwxNDE4NzE4NDUzLDEw
